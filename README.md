@@ -6,6 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=posccis&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+<div style="display: inline_block" align="center">
+  <iframe src="https://giphy.com/embed/xCpLWINHr6B0c" width="480" height="318" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-lol-meme-xCpLWINHr6B0c"></a></p>
+ </div>
+  
 <div style="display: inline_block" align="center"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
