@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block" align="center">
-  <img scr="https://drive.google.com/file/d/1ZAafacZxFNhMe_b64VGL3b_7X6VFp2RE/view?usp=sharing"/>
+  <img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimenostalgia.tumblr.com%2Fpost%2F159901099658%2Fdragon-ball-z&psig=AOvVaw2LLvic5mbgJLIKTsLkXrQt&ust=1636638965054000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJC-yLP5jfQCFQAAAAAdAAAAABAD"/>
  </div>
   
 <div style="display: inline_block" align="center"><br>
