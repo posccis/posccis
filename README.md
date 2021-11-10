@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block" align="center">
-  <image src="https://giphy.com/embed/xCpLWINHr6B0c" width="480" height="318" frameBorder="0"></image><p><a href="https://giphy.com/gifs/funny-lol-meme-xCpLWINHr6B0c"></a></p>
+  <img src="https://giphy.com/embed/xCpLWINHr6B0c" width="480" height="318" frameBorder="0"></img><p><a href="https://giphy.com/gifs/funny-lol-meme-xCpLWINHr6B0c"></a></p>
  </div>
   
 <div style="display: inline_block" align="center"><br>
