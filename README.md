@@ -7,11 +7,22 @@
 </div>
 <div>  
   <h2>Principais Ferramentas</h2>
-  <div style="display: inline_block" align="center">
-  <img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <div style="display: inline" align="left">
+    <h3>Linguagens</h3>
+      <img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+  <h3>Bancos de Dados</h3>
+    <img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <h3>Frameworks</h3>
+  <img height="30" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ 
   </div>
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_block" align="right">
     <img height="180em"src="https://64.media.tumblr.com/a41b656ade59ac6c0549480e8d5db3a1/7535306e75117c70-b1/s540x810/c7483c16196dd8d2f803a47c0806fa2b5bef9844.gifv" alt="roujin z de 𝔽𝕚𝕝𝕞𝕡𝕙𝕚𝕝𝕚𝕔𝕤">
    </div>
  </div>
