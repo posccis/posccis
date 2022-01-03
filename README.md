@@ -12,9 +12,7 @@
 
 
    </div>
-  <div>
-          <img height="200em"src="https://64.media.tumblr.com/b18c1eed933a9fd3448a63e827e4faaa/22f8132deea1f121-a8/s500x750/6a1c549c1650b49acce4838ac2d3f641a16d5a37.gifv" alt="anime art de ✨ANIMECORE✨" align="right" style="display:block">
-  </div>
+
 
   <div  align="left">
     <h3>Linguagens</h3>
