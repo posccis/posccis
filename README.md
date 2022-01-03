@@ -7,7 +7,7 @@
 </div>
 <div>  
   <h2>Principais Conhecimentos</h2>
-    <div  >
+    <div align="right" >
     <img height="200em"src="https://64.media.tumblr.com/a41b656ade59ac6c0549480e8d5db3a1/7535306e75117c70-b1/s540x810/c7483c16196dd8d2f803a47c0806fa2b5bef9844.gifv" alt="roujin z de 𝔽𝕚𝕝𝕞𝕡𝕙𝕚𝕝𝕚𝕔𝕤" align="right">
       <img height="200em"src="https://64.media.tumblr.com/b18c1eed933a9fd3448a63e827e4faaa/22f8132deea1f121-a8/s500x750/6a1c549c1650b49acce4838ac2d3f641a16d5a37.gifv" alt="anime art de ✨ANIMECORE✨" align="right">
 
