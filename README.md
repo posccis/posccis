@@ -10,6 +10,10 @@
     <div >
     <img height="200em"src="https://64.media.tumblr.com/a41b656ade59ac6c0549480e8d5db3a1/7535306e75117c70-b1/s540x810/c7483c16196dd8d2f803a47c0806fa2b5bef9844.gifv" alt="roujin z de 𝔽𝕚𝕝𝕞𝕡𝕙𝕚𝕝𝕚𝕔𝕤" align="right">
    </div>
+  <div align="right">
+    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="victrgmes@gmail.com">
+    <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/victor-de-oliveira-821082203/">
+  </div>
   <div  align="left">
     <h3>Linguagens</h3>
       <img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
