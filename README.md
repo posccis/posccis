@@ -7,7 +7,7 @@
 </div>
 <div>  
   <h2>Principais Conhecimentos</h2>
-    <div display="inline_block" >
+    <div  style="display:block">
     <img height="200em"src="https://64.media.tumblr.com/a41b656ade59ac6c0549480e8d5db3a1/7535306e75117c70-b1/s540x810/c7483c16196dd8d2f803a47c0806fa2b5bef9844.gifv" alt="roujin z de 𝔽𝕚𝕝𝕞𝕡𝕙𝕚𝕝𝕚𝕔𝕤" align="right">
 
 
