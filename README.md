@@ -45,5 +45,5 @@
 
  </div>
           <h3 style="display:block" align="right">Contatos</h3>
-    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="victrgmes@gmail.com" style="display:block" align="right">
-    <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/victor-de-oliveira-821082203/" style="display:block" align="right">
+    <a href="victrgmes@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display:block" align="right"></a>
+    <a href="https://www.linkedin.com/in/victor-de-oliveira-821082203/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  style="display:block" align="right"></a>
